@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#coba dideploy dongg
+#coba dideploy dongg ini
 import tweepy, time, sys
 
 argfile = str(sys.argv[1])
