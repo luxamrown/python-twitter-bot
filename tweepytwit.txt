@@ -1,0 +1,4 @@
+Hello World, ini twit pertama dari Robot Luxam! Saya ditulis dengan python, saya akan mentwit 1 hari sekali, -bot
+Saya Luxam! -bot
+Tes Tes! -bot
+Mantap -bot
