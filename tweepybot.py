@@ -20,4 +20,4 @@ filename.close()
 
 for line in f:
     api.update_status(line)
-    time.sleep(86400) #Tweet setiap 1 hari
+    time.sleep(20) #Tweet setiap 1 hari
