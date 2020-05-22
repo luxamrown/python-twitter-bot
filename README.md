@@ -1,6 +1,6 @@
 # python-twitter-bot
 
-DEPENDENCIES
+## DEPENDENCIES
 
 -Python3
 -Python-Tweepy module
