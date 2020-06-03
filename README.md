@@ -8,7 +8,7 @@
 ## INSTALL LINUX
 
 git clone https://github.com/luxamrown/python-twitter-bot <br>
-input your API token from twitter.developer to tweepybot.py <br>
+input your API token from twitter.developer to key.txt <br>
 if you want to change that word, you can change it at spok.py but, thats create with Indonesia language, but you can change too <br>
 to run this script <br>
 python3 tweepybot.py <br>
